@@ -516,4 +516,8 @@ text-transform: uppercase;
   .address-cardone {
     width: 100%;
   }
+
+  .about-boxone{
+    display: none;
+  }
 }
