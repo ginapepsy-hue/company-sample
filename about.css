@@ -29,7 +29,7 @@ html {
 }
 
 .Logo-img {
-  width: 10%;
+  width: 12%;
 }
 
 .Logo-img > img {
@@ -49,7 +49,7 @@ html {
 
 .nav-bar a {
   color: green;
-  font-size: 1.5rem;
+  font-size: 2rem;
   text-decoration: none;
   /* font-style: italic; */
   font-weight: 400;
